@@ -1,0 +1,1178 @@
+{
+ "records_total": 1932,
+ "records_missing_value": 3,
+ "areas_in_file": 61,
+ "aggregate_rows": [
+  "Least Developed Countries"
+ ],
+ "n_ws": 57,
+ "n_wue": 56,
+ "n_no_data": 4,
+ "no_data_countries": [
+  "Kiribati",
+  "Solomon Islands",
+  "Tuvalu",
+  "Vanuatu"
+ ],
+ "n_wue_missing_but_ws": [
+  "Djibouti"
+ ],
+ "region_n": {
+  "Sub-Saharan Africa": 39,
+  "Central & Southern Asia": 8,
+  "Eastern & South-Eastern Asia": 6,
+  "Latin America & Caribbean": 2,
+  "Northern Africa & Western Asia": 2
+ },
+ "not_un_ldc_n": 14,
+ "ws_median": 5.82799634,
+ "ws_q1": 1.751486326,
+ "ws_q3": 24.527740592,
+ "ws_min": 0.027446301,
+ "ws_max": 281.476190476,
+ "ws_n": 57,
+ "ws_ci_lo": 4.105463321,
+ "ws_ci_hi": 11.175115207,
+ "wue_median": 7.557193015999999,
+ "wue_q1": 2.9370887089999997,
+ "wue_q3": 16.12376509725,
+ "wue_min": 0.3752586,
+ "wue_max": 132.914246904,
+ "wue_n": 56,
+ "wue_ci_lo": 4.762238736,
+ "wue_ci_hi": 10.4163679285,
+ "wue_agri_median": 0.169328164,
+ "wue_agri_q1": 0.056804434,
+ "wue_agri_q3": 0.393900715,
+ "wue_agri_min": 0.00499463,
+ "wue_agri_max": 17.759541933,
+ "wue_agri_n": 57,
+ "wue_agri_ci_lo": 0.102173564,
+ "wue_agri_ci_hi": 0.221790828,
+ "wue_ind_median": 73.27772585599999,
+ "wue_ind_q1": 34.097826423,
+ "wue_ind_q3": 209.74526028374999,
+ "wue_ind_min": 1.853828219,
+ "wue_ind_max": 6088.23451236,
+ "wue_ind_n": 56,
+ "wue_ind_ci_lo": 57.070073276,
+ "wue_ind_ci_hi": 151.68111712450002,
+ "wue_serv_median": 39.934859839,
+ "wue_serv_q1": 23.171025921,
+ "wue_serv_q3": 73.069710425,
+ "wue_serv_min": 6.116555965,
+ "wue_serv_max": 184.543325812,
+ "wue_serv_n": 57,
+ "wue_serv_ci_lo": 33.162687809,
+ "wue_serv_ci_hi": 50.838503176,
+ "ws_min_country": "Congo",
+ "wue_agri_max_country": "Djibouti",
+ "wue_agri_n_zero": 0,
+ "wue_agri_top5": [
+  [
+   "Djibouti",
+   17.759541933
+  ],
+  [
+   "Sierra Leone",
+   3.442378312
+  ],
+  [
+   "Bangladesh",
+   1.050424078
+  ],
+  [
+   "Benin",
+   0.76626049
+  ],
+  [
+   "Uzbekistan",
+   0.720709018
+  ]
+ ],
+ "tiers": [
+  {
+   "Tier": "Critical (>100%)",
+   "N": 4,
+   "Share of cohort (%)": 7.0,
+   "Mean stress (%)": 161.88,
+   "Median TRWR per capita (m3/person/yr)": 734.0,
+   "Mean TRWR per capita (m3/person/yr)": 723.0,
+   "Countries": "Yemen; Syrian Arab Republic; Uzbekistan; Sudan"
+  },
+  {
+   "Tier": "Chronic (50-100%)",
+   "N": 3,
+   "Share of cohort (%)": 5.3,
+   "Mean stress (%)": 63.52,
+   "Median TRWR per capita (m3/person/yr)": 1576.0,
+   "Mean TRWR per capita (m3/person/yr)": 1671.0,
+   "Countries": "Tajikistan; India; Afghanistan"
+  },
+  {
+   "Tier": "Vulnerable (25-50%)",
+   "N": 6,
+   "Share of cohort (%)": 10.5,
+   "Mean stress (%)": 37.84,
+   "Median TRWR per capita (m3/person/yr)": 3130.0,
+   "Mean TRWR per capita (m3/person/yr)": 3236.0,
+   "Countries": "Kyrgyzstan; Zimbabwe; Mali; Ethiopia; Timor-Leste; Democratic People's Republic of Korea"
+  },
+  {
+   "Tier": "Abundant (<25%)",
+   "N": 44,
+   "Share of cohort (%)": 77.2,
+   "Mean stress (%)": 6.0,
+   "Median TRWR per capita (m3/person/yr)": 3502.0,
+   "Mean TRWR per capita (m3/person/yr)": 13336.0,
+   "Countries": "Madagascar; Somalia; Viet Nam; Senegal; Haiti; Mauritania; United Republic of Tanzania; Kenya; Eritrea; Niger; Burundi; Zambia; Nepal; Rwanda; Djibouti; Uganda; Myanmar; Bangladesh; C\u00f4te d'Ivoire; Lao People's Democratic Republic; Chad; South Sudan; Malawi; Togo; Lesotho; Nicaragua; Gambia; Sao Tome and Principe; Angola; Mozambique; Cameroon; Guinea-Bissau; Bhutan; Guinea; Burkina Faso; Cambodia; Benin; Comoros; Sierra Leone; Ghana; Central African Republic; Liberia; Democratic Republic of the Congo; Congo"
+  }
+ ],
+ "ag_share_critical": [
+  [
+   "Sudan",
+   114.14,
+   96.19,
+   4.19,
+   0.33
+  ],
+  [
+   "Syrian Arab Republic",
+   108.85,
+   87.53,
+   10.94,
+   4.57
+  ],
+  [
+   "Uzbekistan",
+   113.35,
+   92.13,
+   6.36,
+   3.32
+  ],
+  [
+   "Yemen",
+   255.42,
+   90.74,
+   20.92,
+   5.13
+  ]
+ ],
+ "ind_contrib_max": [
+  [
+   "Tajikistan",
+   11.37
+  ],
+  [
+   "Yemen",
+   5.13
+  ],
+  [
+   "Syrian Arab Republic",
+   4.57
+  ]
+ ],
+ "ind_contrib_over_5": 1,
+ "top12": [
+  [
+   "Yemen",
+   281.48
+  ],
+  [
+   "Syrian Arab Republic",
+   124.36
+  ],
+  [
+   "Uzbekistan",
+   123.03
+  ],
+  [
+   "Sudan",
+   118.66
+  ],
+  [
+   "Tajikistan",
+   69.94
+  ],
+  [
+   "India",
+   65.87
+  ],
+  [
+   "Afghanistan",
+   54.76
+  ],
+  [
+   "Kyrgyzstan",
+   49.72
+  ],
+  [
+   "Zimbabwe",
+   46.09
+  ],
+  [
+   "Mali",
+   42.95
+  ],
+  [
+   "Ethiopia",
+   32.26
+  ],
+  [
+   "Timor-Leste",
+   28.27
+  ]
+ ],
+ "tier_lists": {
+  "Critical (>100%)": [
+   [
+    "Yemen",
+    281.48
+   ],
+   [
+    "Syrian Arab Republic",
+    124.36
+   ],
+   [
+    "Uzbekistan",
+    123.03
+   ],
+   [
+    "Sudan",
+    118.66
+   ]
+  ],
+  "Chronic (50-100%)": [
+   [
+    "Tajikistan",
+    69.94
+   ],
+   [
+    "India",
+    65.87
+   ],
+   [
+    "Afghanistan",
+    54.76
+   ]
+  ],
+  "Vulnerable (25-50%)": [
+   [
+    "Kyrgyzstan",
+    49.72
+   ],
+   [
+    "Zimbabwe",
+    46.09
+   ],
+   [
+    "Mali",
+    42.95
+   ],
+   [
+    "Ethiopia",
+    32.26
+   ],
+   [
+    "Timor-Leste",
+    28.27
+   ],
+   [
+    "Democratic People's Republic of Korea",
+    27.74
+   ]
+  ]
+ },
+ "n_over_100": 4,
+ "ag_pct_trwr": {
+  "Afghanistan": 30.61,
+  "Angola": 0.1,
+  "Bangladesh": 2.57,
+  "Benin": 0.22,
+  "Bhutan": 0.41,
+  "Burkina Faso": 3.12,
+  "Burundi": 1.77,
+  "Cambodia": 0.43,
+  "Cameroon": 0.26,
+  "Central African Republic": 0.0,
+  "Chad": 1.47,
+  "Comoros": 0.39,
+  "Congo": 0.0,
+  "C\u00f4te d'Ivoire": 0.71,
+  "Democratic People's Republic of Korea": 8.57,
+  "Democratic Republic of the Congo": 0.01,
+  "Djibouti": 1.0,
+  "Eritrea": 7.52,
+  "Ethiopia": 7.94,
+  "Gambia": 0.49,
+  "Ghana": 1.9,
+  "Guinea": 0.27,
+  "Guinea-Bissau": 0.46,
+  "Haiti": 8.62,
+  "India": 36.0,
+  "Kenya": 14.03,
+  "Kyrgyzstan": 30.06,
+  "Lao People's Democratic Republic": 2.11,
+  "Lesotho": 0.13,
+  "Liberia": 0.01,
+  "Madagascar": 8.77,
+  "Malawi": 6.75,
+  "Mali": 4.23,
+  "Mauritania": 10.73,
+  "Mozambique": 0.5,
+  "Myanmar": 2.53,
+  "Nepal": 4.43,
+  "Nicaragua": 0.66,
+  "Niger": 6.91,
+  "Rwanda": 2.71,
+  "Sao Tome and Principe": 1.17,
+  "Senegal": 7.08,
+  "Sierra Leone": 0.03,
+  "Somalia": 22.32,
+  "South Sudan": 0.48,
+  "Sudan": 68.54,
+  "Syrian Arab Republic": 87.31,
+  "Tajikistan": 33.67,
+  "Timor-Leste": 13.04,
+  "Togo": 0.52,
+  "Uganda": 0.43,
+  "United Republic of Tanzania": 4.81,
+  "Uzbekistan": 83.9,
+  "Viet Nam": 8.6,
+  "Yemen": 154.05,
+  "Zambia": 3.56,
+  "Zimbabwe": 21.41
+ },
+ "ag_pct_max": 154.047619048,
+ "table2": [
+  {
+   "Region": "Central & Southern Asia",
+   "N (stress)": 8,
+   "N (WUE)": 8,
+   "Agri median": 0.52,
+   "Serv median": 35.24,
+   "Ind median": 37.37,
+   "Total median": 2.88,
+   "Agri IQR": 0.36,
+   "Serv IQR": 44.2,
+   "Ind IQR": 116.66,
+   "Total IQR": 3.41,
+   "Stress median": 52.24,
+   "Stress IQR": 59.22
+  },
+  {
+   "Region": "Eastern & South-Eastern Asia",
+   "N (stress)": 6,
+   "N (WUE)": 6,
+   "Agri median": 0.27,
+   "Serv median": 43.21,
+   "Ind median": 49.44,
+   "Total median": 2.1,
+   "Agri IQR": 0.17,
+   "Serv IQR": 115.71,
+   "Ind IQR": 141.47,
+   "Total IQR": 1.85,
+   "Stress median": 11.78,
+   "Stress IQR": 20.2
+  },
+  {
+   "Region": "Latin America & Caribbean",
+   "N (stress)": 2,
+   "N (WUE)": 2,
+   "Agri median": 0.19,
+   "Serv median": 37.19,
+   "Ind median": 3084.59,
+   "Total median": 8.3,
+   "Agri IQR": 0.02,
+   "Serv IQR": 2.61,
+   "Ind IQR": 3003.65,
+   "Total IQR": 0.74,
+   "Stress median": 7.8,
+   "Stress IQR": 5.58
+  },
+  {
+   "Region": "Northern Africa & Western Asia",
+   "N (stress)": 2,
+   "N (WUE)": 2,
+   "Agri median": 0.42,
+   "Serv median": 24.35,
+   "Ind median": 31.33,
+   "Total median": 2.85,
+   "Agri IQR": 0.2,
+   "Serv IQR": 18.23,
+   "Ind IQR": 25.74,
+   "Total IQR": 1.91,
+   "Stress median": 202.92,
+   "Stress IQR": 78.56
+  },
+  {
+   "Region": "Sub-Saharan Africa",
+   "N (stress)": 39,
+   "N (WUE)": 38,
+   "Agri median": 0.1,
+   "Serv median": 43.15,
+   "Ind median": 96.99,
+   "Total median": 11.48,
+   "Agri IQR": 0.18,
+   "Serv IQR": 42.15,
+   "Ind IQR": 186.15,
+   "Total IQR": 24.82,
+   "Stress median": 4.23,
+   "Stress IQR": 9.75
+  },
+  {
+   "Region": "All countries",
+   "N (stress)": 57,
+   "N (WUE)": 56,
+   "Agri median": 0.17,
+   "Serv median": 39.93,
+   "Ind median": 73.28,
+   "Total median": 7.56,
+   "Agri IQR": 0.34,
+   "Serv IQR": 49.9,
+   "Ind IQR": 175.65,
+   "Total IQR": 13.19,
+   "Stress median": 5.83,
+   "Stress IQR": 22.78
+  }
+ ],
+ "table3": [
+  {
+   "Indicator": "Total water-use efficiency (USD/m3)",
+   "2021": 7.393255,
+   "2022": 7.437803,
+   "2023": 7.557193,
+   "Absolute change": 0.163938,
+   "Change (%)": 2.217393,
+   "Annual growth (%)": 1.102618,
+   "n countries": 56,
+   "n with changed value": 56
+  },
+  {
+   "Indicator": "Irrigated agriculture efficiency (USD/m3)",
+   "2021": 0.155806,
+   "2022": 0.160366,
+   "2023": 0.169328,
+   "Absolute change": 0.013522,
+   "Change (%)": 8.678932,
+   "Annual growth (%)": 4.249188,
+   "n countries": 57,
+   "n with changed value": 57
+  },
+  {
+   "Indicator": "Services efficiency (USD/m3)",
+   "2021": 40.931246,
+   "2022": 38.003334,
+   "2023": 39.93486,
+   "Absolute change": -0.996386,
+   "Change (%)": -2.434292,
+   "Annual growth (%)": -1.224645,
+   "n countries": 57,
+   "n with changed value": 57
+  },
+  {
+   "Indicator": "Industry efficiency (USD/m3)",
+   "2021": 68.762772,
+   "2022": 75.402188,
+   "2023": 73.277726,
+   "Absolute change": 4.514953,
+   "Change (%)": 6.565985,
+   "Annual growth (%)": 3.230802,
+   "n countries": 56,
+   "n with changed value": 56
+  },
+  {
+   "Indicator": "Total water stress (%)",
+   "2021": 5.827996,
+   "2022": 5.827996,
+   "2023": 5.827996,
+   "Absolute change": 0.0,
+   "Change (%)": 0.0,
+   "Annual growth (%)": 0.0,
+   "n countries": 57,
+   "n with changed value": 7
+  },
+  {
+   "Indicator": "Agricultural contribution to stress (%)",
+   "2021": 4.595828,
+   "2022": 4.595828,
+   "2023": 4.595828,
+   "Absolute change": 0.0,
+   "Change (%)": 0.0,
+   "Annual growth (%)": 0.0,
+   "n countries": 57,
+   "n with changed value": 6
+  },
+  {
+   "Indicator": "Municipal contribution to stress (%)",
+   "2021": 0.824433,
+   "2022": 0.824433,
+   "2023": 0.824433,
+   "Absolute change": 0.0,
+   "Change (%)": 0.0,
+   "Annual growth (%)": 0.0,
+   "n countries": 57,
+   "n with changed value": 7
+  },
+  {
+   "Indicator": "Industrial contribution to stress (%)",
+   "2021": 0.125031,
+   "2022": 0.125031,
+   "2023": 0.129673,
+   "Absolute change": 0.004642,
+   "Change (%)": 3.712383,
+   "Annual growth (%)": 1.839277,
+   "n countries": 57,
+   "n with changed value": 6
+  }
+ ],
+ "wue_med": {
+  "2021": 7.393255455,
+  "2022": 7.4378025935,
+  "2023": 7.557193015999999
+ },
+ "ws_med": {
+  "2021": 5.82799634,
+  "2022": 5.82799634,
+  "2023": 5.82799634
+ },
+ "wue_cagr": 1.1026178858669855,
+ "regional_growth": {
+  "Sub-Saharan Africa": {
+   "eff_growth_pct_per_yr": 3.412565639803228,
+   "stress_growth_pct_per_yr": 0.0
+  },
+  "Central & Southern Asia": {
+   "eff_growth_pct_per_yr": 5.952333255344315,
+   "stress_growth_pct_per_yr": 0.0
+  },
+  "Eastern & South-Eastern Asia": {
+   "eff_growth_pct_per_yr": -1.0387541641461047,
+   "stress_growth_pct_per_yr": 0.0
+  }
+ },
+ "update_counts": {
+  "WS_Total": {
+   "n": 57,
+   "changed_2021_2022": 7,
+   "changed_2022_2023": 5,
+   "changed_2021_2023": 7
+  },
+  "WUE_Total": {
+   "n": 56,
+   "changed_2021_2022": 56,
+   "changed_2022_2023": 56,
+   "changed_2021_2023": 56
+  },
+  "WUE_Agri": {
+   "n": 57,
+   "changed_2021_2022": 57,
+   "changed_2022_2023": 57,
+   "changed_2021_2023": 57
+  },
+  "TRWR_per_capita": {
+   "n": 61,
+   "changed_2021_2022": 59,
+   "changed_2022_2023": 59,
+   "changed_2021_2023": 59
+  },
+  "Dependency_Ratio": {
+   "n": 61,
+   "changed_2021_2022": 0,
+   "changed_2022_2023": 0,
+   "changed_2021_2023": 0
+  }
+ },
+ "symbol_counts_ws": {
+  "E": {
+   "2021": 53,
+   "2022": 53,
+   "2023": 53
+  },
+  "I": {
+   "2021": 4,
+   "2022": 4,
+   "2023": 4
+  }
+ },
+ "stat_rows": [
+  {
+   "Test": "Wilcoxon signed-rank 2021 vs 2023",
+   "Variable": "Total WUE",
+   "n pairs": 56,
+   "n non-zero differences": 56.0,
+   "Statistic": 251.0,
+   "p": 8.122658660274687e-06,
+   "Effect size (r)": 0.5962498332688146,
+   "Median change": 0.4542569300000001
+  },
+  {
+   "Test": "Wilcoxon signed-rank 2021 vs 2023",
+   "Variable": "Water stress",
+   "n pairs": 57,
+   "n non-zero differences": 7.0,
+   "Statistic": 7.0,
+   "p": 0.23672357063785732,
+   "Effect size (r)": 0.44721359549995776,
+   "Median change": 0.0
+  },
+  {
+   "Test": "Wilcoxon signed-rank 2021 vs 2023",
+   "Variable": "Agricultural WUE",
+   "n pairs": 57,
+   "n non-zero differences": 57.0,
+   "Statistic": 409.0,
+   "p": 0.0009094911880664739,
+   "Effect size (r)": 0.43936385697297214,
+   "Median change": 0.006453925999999943
+  },
+  {
+   "Test": "Kruskal-Wallis across 3 regions with n>=3",
+   "Variable": "Agricultural WUE",
+   "n pairs": 53,
+   "n non-zero differences": null,
+   "Statistic": 9.49927431059507,
+   "p": 0.008654834994486315,
+   "Effect size (r)": 0.1499854862119014,
+   "Median change": null
+  },
+  {
+   "Test": "Kruskal-Wallis across 3 regions with n>=3",
+   "Variable": "Industrial WUE",
+   "n pairs": 52,
+   "n non-zero differences": null,
+   "Statistic": 4.387632724772715,
+   "p": 0.11149044772425823,
+   "Effect size (r)": 0.04872719846474928,
+   "Median change": null
+  },
+  {
+   "Test": "Kruskal-Wallis across 3 regions with n>=3",
+   "Variable": "Services WUE",
+   "n pairs": 53,
+   "n non-zero differences": null,
+   "Statistic": 0.3239800032252731,
+   "p": 0.8504497076233344,
+   "Effect size (r)": -0.033520399935494535,
+   "Median change": null
+  },
+  {
+   "Test": "Kruskal-Wallis across 3 regions with n>=3",
+   "Variable": "Total WUE",
+   "n pairs": 52,
+   "n non-zero differences": null,
+   "Statistic": 13.789215873500837,
+   "p": 0.0010132341485425283,
+   "Effect size (r)": 0.2405962423163436,
+   "Median change": null
+  },
+  {
+   "Test": "Kruskal-Wallis across 3 regions with n>=3",
+   "Variable": "Water stress",
+   "n pairs": 53,
+   "n non-zero differences": null,
+   "Statistic": 7.894586894586922,
+   "p": 0.019306886228721287,
+   "Effect size (r)": 0.11789173789173844,
+   "Median change": null
+  },
+  {
+   "Test": "Kruskal-Wallis across 3 regions with n>=3",
+   "Variable": "Agricultural withdrawal (% TRWR)",
+   "n pairs": 53,
+   "n non-zero differences": null,
+   "Statistic": 8.789550072568943,
+   "p": 0.012341656438044593,
+   "Effect size (r)": 0.13579100145137887,
+   "Median change": null
+  }
+ ],
+ "dunn_sig": [
+  {
+   "Variable": "Agricultural WUE",
+   "Region A": "Sub-Saharan Africa",
+   "Region B": "Central & Southern Asia",
+   "n A": 39,
+   "n B": 8,
+   "z": -2.8810922842407143,
+   "p (unadjusted)": 0.003962995884554177,
+   "p (Bonferroni)": 0.01188898765366253
+  },
+  {
+   "Variable": "Total WUE",
+   "Region A": "Sub-Saharan Africa",
+   "Region B": "Central & Southern Asia",
+   "n A": 38,
+   "n B": 8,
+   "z": 2.9875396345358394,
+   "p (unadjusted)": 0.002812328265397346,
+   "p (Bonferroni)": 0.008436984796192037
+  },
+  {
+   "Variable": "Total WUE",
+   "Region A": "Sub-Saharan Africa",
+   "Region B": "Eastern & South-Eastern Asia",
+   "n A": 38,
+   "n B": 6,
+   "z": 2.6391750667624545,
+   "p (unadjusted)": 0.008310805095667728,
+   "p (Bonferroni)": 0.024932415287003185
+  },
+  {
+   "Variable": "Water stress",
+   "Region A": "Sub-Saharan Africa",
+   "Region B": "Central & Southern Asia",
+   "n A": 39,
+   "n B": 8,
+   "z": -2.7206751191939036,
+   "p (unadjusted)": 0.00651487545216245,
+   "p (Bonferroni)": 0.01954462635648735
+  }
+ ],
+ "regions_kw": [
+  "Sub-Saharan Africa",
+  "Central & Southern Asia",
+  "Eastern & South-Eastern Asia"
+ ],
+ "coupling": {
+  "spearman_ag_pct_vs_ws": 0.9196914700544465,
+  "spearman_ag_pct_vs_wsagri": 0.9386180969665545,
+  "implied_efr_median": 0.48922929482652133,
+  "implied_efr_min": -4.444549137564461,
+  "implied_efr_max": 0.899373338115093,
+  "n": 57,
+  "agri_share_median": 83.37931034249331,
+  "agri_share_min": 0.5517241823124852,
+  "agri_share_max": 99.48453608465984,
+  "agri_share_ge_80": 29,
+  "implied_efr_negative_n": 4,
+  "ratio_median": 2.41392956099094
+ },
+ "n_dropped_log": 0,
+ "dropped_log": [],
+ "threshold": {
+  "n": 57,
+  "breakpoint_pct_trwr": 1.9556973011606384,
+  "bp_ci_lo": 0.29732104019515876,
+  "bp_ci_hi": 14.03329316,
+  "slope_below": 0.4365877863754942,
+  "slope_above": 0.9400401704556356,
+  "slope_linear_loglog": 0.6067922362310245,
+  "sup_F": 9.709274483937131,
+  "p_boot": 0.000999000999000999,
+  "r2_loglog_linear": 0.8232932096406413,
+  "r2_segmented": 0.8706759521900855,
+  "r2_fixed25": 0.8465702643588197,
+  "aic_linear": -122.05795223425196,
+  "aic_segmented": -135.8516738258952,
+  "aic_fixed25": -126.10915055636147,
+  "F_fixed25": 4.020354642820394,
+  "p_fixed25": 0.023680556359901295,
+  "spearman_rho": 0.9196914700544465,
+  "slope_ci_lo": 0.5084563721741963,
+  "slope_ci_hi": 0.7204606248461317
+ },
+ "efr_x0.5": {
+  "median_ws": 5.3487264292828405,
+  "n_over_100": 3,
+  "n_over_50": 5
+ },
+ "efr_x1.5": {
+  "median_ws": 14.079766051797598,
+  "n_over_100": 7,
+  "n_over_50": 14
+ },
+ "efr_base": {
+  "n_over_100": 4,
+  "n_over_50": 7
+ },
+ "sensitivity": [
+  {
+   "Scenario": "Main analysis",
+   "n": 57,
+   "Median stress (%)": 5.82799634,
+   "Median WUE (USD/m3)": 7.557193015999999,
+   "Median agri WUE (USD/m3)": 0.169328164,
+   "Spearman rho (agri % TRWR vs stress)": 0.9196914700544465,
+   "Log-log slope": 0.6067922362310245,
+   "Best breakpoint (% TRWR)": 1.9556973011606384,
+   "Countries above 100% stress": 4
+  },
+  {
+   "Scenario": "Excluding Yemen",
+   "n": 56,
+   "Median stress (%)": 5.814748868500001,
+   "Median WUE (USD/m3)": 7.563147731,
+   "Median agri WUE (USD/m3)": 0.1665002055,
+   "Spearman rho (agri % TRWR vs stress)": 0.9153110047846891,
+   "Log-log slope": 0.5940182059459045,
+   "Best breakpoint (% TRWR)": 1.9078429000403392,
+   "Countries above 100% stress": 3
+  },
+  {
+   "Scenario": "Excluding the four countries above 100% stress",
+   "n": 53,
+   "Median stress (%)": 5.723339482,
+   "Median WUE (USD/m3)": 8.4577107345,
+   "Median agri WUE (USD/m3)": 0.163672247,
+   "Spearman rho (agri % TRWR vs stress)": 0.9000967585873246,
+   "Log-log slope": 0.5675474254646738,
+   "Best breakpoint (% TRWR)": 1.9366997745360575,
+   "Countries above 100% stress": 0
+  },
+  {
+   "Scenario": "Excluding countries with dependency ratio >= 70%",
+   "n": 49,
+   "Median stress (%)": 5.801501397,
+   "Median WUE (USD/m3)": 7.885832555,
+   "Median agri WUE (USD/m3)": 0.142913751,
+   "Spearman rho (agri % TRWR vs stress)": 0.895204081632653,
+   "Log-log slope": 0.5684672473815737,
+   "Best breakpoint (% TRWR)": 1.9328968302511809,
+   "Countries above 100% stress": 1
+  },
+  {
+   "Scenario": "Excluding the 14 countries never on the UN LDC list (43 UN LDCs only)",
+   "n": 43,
+   "Median stress (%)": 5.723339482,
+   "Median WUE (USD/m3)": 7.885832555,
+   "Median agri WUE (USD/m3)": 0.135822392,
+   "Spearman rho (agri % TRWR vs stress)": 0.9019933554817275,
+   "Log-log slope": 0.553782292113305,
+   "Best breakpoint (% TRWR)": 1.1763163176180738,
+   "Countries above 100% stress": 2
+  },
+  {
+   "Scenario": "EFR share x0.5 (re-derived from reported agricultural contribution)",
+   "n": 57,
+   "Median stress (%)": 5.3487264292828405,
+   "Median WUE (USD/m3)": null,
+   "Median agri WUE (USD/m3)": null,
+   "Spearman rho (agri % TRWR vs stress)": null,
+   "Log-log slope": null,
+   "Best breakpoint (% TRWR)": null,
+   "Countries above 100% stress": 3
+  },
+  {
+   "Scenario": "EFR share x1.5 (re-derived from reported agricultural contribution)",
+   "n": 57,
+   "Median stress (%)": 14.079766051797598,
+   "Median WUE (USD/m3)": null,
+   "Median agri WUE (USD/m3)": null,
+   "Spearman rho (agri % TRWR vs stress)": null,
+   "Log-log slope": null,
+   "Best breakpoint (% TRWR)": null,
+   "Countries above 100% stress": 7
+  }
+ ],
+ "desc_thresholds": {
+  "lt10_n": 44,
+  "lt10_max_ws": 42.947530864,
+  "gt25_n": 8,
+  "gt25_min_ws": 49.719516946,
+  "gt25_median_ws": 94.299825974,
+  "gt50_n": 4,
+  "gt50_min_ws": 118.656387665,
+  "gt50_countries": [
+   "Sudan",
+   "Syrian Arab Republic",
+   "Uzbekistan",
+   "Yemen"
+  ],
+  "gt25_countries": [
+   [
+    "Yemen",
+    154.05,
+    281.48
+   ],
+   [
+    "Syrian Arab Republic",
+    87.31,
+    124.36
+   ],
+   [
+    "Uzbekistan",
+    83.9,
+    123.03
+   ],
+   [
+    "Sudan",
+    68.54,
+    118.66
+   ],
+   [
+    "India",
+    36.0,
+    65.87
+   ],
+   [
+    "Tajikistan",
+    33.67,
+    69.94
+   ],
+   [
+    "Afghanistan",
+    30.61,
+    54.76
+   ],
+   [
+    "Kyrgyzstan",
+    30.06,
+    49.72
+   ]
+  ]
+ },
+ "ws_by_country": {
+  "Afghanistan": 54.76,
+  "Angola": 1.87,
+  "Bangladesh": 5.72,
+  "Benin": 0.98,
+  "Bhutan": 1.41,
+  "Burkina Faso": 1.28,
+  "Burundi": 10.13,
+  "Cambodia": 1.04,
+  "Cameroon": 1.56,
+  "Central African Republic": 0.34,
+  "Chad": 4.29,
+  "Comoros": 0.83,
+  "Congo": 0.03,
+  "C\u00f4te d'Ivoire": 5.09,
+  "Democratic People's Republic of Korea": 27.74,
+  "Democratic Republic of the Congo": 0.23,
+  "Djibouti": 6.33,
+  "Eritrea": 11.18,
+  "Ethiopia": 32.26,
+  "Gambia": 2.21,
+  "Ghana": 0.48,
+  "Guinea": 1.37,
+  "Guinea-Bissau": 1.5,
+  "Haiti": 13.38,
+  "India": 65.87,
+  "Kenya": 11.2,
+  "Kyrgyzstan": 49.72,
+  "Lao People's Democratic Republic": 4.79,
+  "Lesotho": 2.57,
+  "Liberia": 0.26,
+  "Madagascar": 24.99,
+  "Malawi": 4.11,
+  "Mali": 42.95,
+  "Mauritania": 13.25,
+  "Mozambique": 1.75,
+  "Myanmar": 5.8,
+  "Nepal": 8.31,
+  "Nicaragua": 2.22,
+  "Niger": 11.02,
+  "Rwanda": 6.55,
+  "Sao Tome and Principe": 1.88,
+  "Senegal": 16.28,
+  "Sierra Leone": 0.5,
+  "Somalia": 24.53,
+  "South Sudan": 4.23,
+  "Sudan": 118.66,
+  "Syrian Arab Republic": 124.36,
+  "Tajikistan": 69.94,
+  "Timor-Leste": 28.27,
+  "Togo": 3.39,
+  "Uganda": 5.83,
+  "United Republic of Tanzania": 12.96,
+  "Uzbekistan": 123.03,
+  "Viet Nam": 17.76,
+  "Yemen": 281.48,
+  "Zambia": 8.62,
+  "Zimbabwe": 46.09
+ },
+ "table1": [
+  {
+   "Area": "Yemen",
+   "Region": "Northern Africa & Western Asia",
+   "WS_Total": 281.48,
+   "WS_Agri_Contrib": 255.42,
+   "WS_Muni_Contrib": 20.92,
+   "WS_Ind_Contrib": 5.13,
+   "TRWR_per_capita": 53.31,
+   "Falk": "Absolute scarcity (<500)",
+   "Dependency_Ratio": 0.0
+  },
+  {
+   "Area": "Syrian Arab Republic",
+   "Region": "Northern Africa & Western Asia",
+   "WS_Total": 124.36,
+   "WS_Agri_Contrib": 108.85,
+   "WS_Muni_Contrib": 10.94,
+   "WS_Ind_Contrib": 4.57,
+   "TRWR_per_capita": 712.11,
+   "Falk": "Chronic scarcity (500-1,000)",
+   "Dependency_Ratio": 72.36
+  },
+  {
+   "Area": "Uzbekistan",
+   "Region": "Central & Southern Asia",
+   "WS_Total": 123.03,
+   "WS_Agri_Contrib": 113.35,
+   "WS_Muni_Contrib": 6.36,
+   "WS_Ind_Contrib": 3.32,
+   "TRWR_per_capita": 1370.74,
+   "Falk": "Water vulnerability (1,000-1,700)",
+   "Dependency_Ratio": 80.07
+  },
+  {
+   "Area": "Sudan",
+   "Region": "Sub-Saharan Africa",
+   "WS_Total": 118.66,
+   "WS_Agri_Contrib": 114.14,
+   "WS_Muni_Contrib": 4.19,
+   "WS_Ind_Contrib": 0.33,
+   "TRWR_per_capita": 755.35,
+   "Falk": "Chronic scarcity (500-1,000)",
+   "Dependency_Ratio": 96.13
+  },
+  {
+   "Area": "Tajikistan",
+   "Region": "Central & Southern Asia",
+   "WS_Total": 69.94,
+   "WS_Agri_Contrib": 52.13,
+   "WS_Muni_Contrib": 6.44,
+   "WS_Ind_Contrib": 11.37,
+   "TRWR_per_capita": 2108.8,
+   "Falk": "No scarcity (>1,700)",
+   "Dependency_Ratio": 17.34
+  },
+  {
+   "Area": "India",
+   "Region": "Central & Southern Asia",
+   "WS_Total": 65.87,
+   "WS_Agri_Contrib": 59.55,
+   "WS_Muni_Contrib": 4.85,
+   "WS_Ind_Contrib": 1.47,
+   "TRWR_per_capita": 1328.8,
+   "Falk": "Water vulnerability (1,000-1,700)",
+   "Dependency_Ratio": 30.52
+  },
+  {
+   "Area": "Afghanistan",
+   "Region": "Central & Southern Asia",
+   "WS_Total": 54.76,
+   "WS_Agri_Contrib": 53.75,
+   "WS_Muni_Contrib": 0.55,
+   "WS_Ind_Contrib": 0.46,
+   "TRWR_per_capita": 1575.93,
+   "Falk": "Water vulnerability (1,000-1,700)",
+   "Dependency_Ratio": 28.72
+  },
+  {
+   "Area": "Kyrgyzstan",
+   "Region": "Central & Southern Asia",
+   "WS_Total": 49.72,
+   "WS_Agri_Contrib": 46.08,
+   "WS_Muni_Contrib": 1.45,
+   "WS_Ind_Contrib": 2.18,
+   "TRWR_per_capita": 3338.93,
+   "Falk": "No scarcity (>1,700)",
+   "Dependency_Ratio": 1.13
+  },
+  {
+   "Area": "Zimbabwe",
+   "Region": "Sub-Saharan Africa",
+   "WS_Total": 46.09,
+   "WS_Agri_Contrib": 40.19,
+   "WS_Muni_Contrib": 5.14,
+   "WS_Ind_Contrib": 0.76,
+   "TRWR_per_capita": 1223.93,
+   "Falk": "Water vulnerability (1,000-1,700)",
+   "Dependency_Ratio": 38.7
+  },
+  {
+   "Area": "Mali",
+   "Region": "Sub-Saharan Africa",
+   "WS_Total": 42.95,
+   "WS_Agri_Contrib": 42.03,
+   "WS_Muni_Contrib": 0.89,
+   "WS_Ind_Contrib": 0.03,
+   "TRWR_per_capita": 5048.57,
+   "Falk": "No scarcity (>1,700)",
+   "Dependency_Ratio": 50.0
+  },
+  {
+   "Area": "Ethiopia",
+   "Region": "Sub-Saharan Africa",
+   "WS_Total": 32.26,
+   "WS_Agri_Contrib": 29.62,
+   "WS_Muni_Contrib": 2.48,
+   "WS_Ind_Contrib": 0.16,
+   "TRWR_per_capita": 948.0,
+   "Falk": "Chronic scarcity (500-1,000)",
+   "Dependency_Ratio": 0.0
+  },
+  {
+   "Area": "Timor-Leste",
+   "Region": "Eastern & South-Eastern Asia",
+   "WS_Total": 28.27,
+   "WS_Agri_Contrib": 25.83,
+   "WS_Muni_Contrib": 2.39,
+   "WS_Ind_Contrib": 0.05,
+   "TRWR_per_capita": 5934.47,
+   "Falk": "No scarcity (>1,700)",
+   "Dependency_Ratio": 0.0
+  }
+ ],
+ "trwr_zero": [
+  [
+   "Yemen",
+   53.3
+  ],
+  [
+   "Djibouti",
+   260.2
+  ],
+  [
+   "Kenya",
+   554.8
+  ]
+ ],
+ "dep_over_70": [
+  [
+   "Bangladesh",
+   91.4,
+   5.7
+  ],
+  [
+   "Cambodia",
+   74.7,
+   1.0
+  ],
+  [
+   "Congo",
+   73.3,
+   0.0
+  ],
+  [
+   "Mauritania",
+   96.5,
+   13.2
+  ],
+  [
+   "Niger",
+   89.7,
+   11.0
+  ],
+  [
+   "Sudan",
+   96.1,
+   118.7
+  ],
+  [
+   "Syrian Arab Republic",
+   72.4,
+   124.4
+  ],
+  [
+   "Uzbekistan",
+   80.1,
+   123.0
+  ]
+ ],
+ "regions_with_n_lt3": [
+  "Latin America & Caribbean",
+  "Northern Africa & Western Asia"
+ ]
+}

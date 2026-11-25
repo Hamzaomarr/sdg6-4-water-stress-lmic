@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+tables/docx/
+revision_outputs/
+tables/
