@@ -1,4 +1,4 @@
-# Water abstraction and physical water stress across low- and lower-middle-income countries
+# Water abstraction and physical water stress across low- and lower-middle-income countries: the role of agricultural withdrawals in sustainable water resources management
 
 Data and code for the manuscript *"Water abstraction and physical water stress across low- and lower-middle-income countries: the role of agricultural withdrawals in sustainable water resources management"*.
 
