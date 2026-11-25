@@ -1,6 +1,6 @@
-# Agricultural water abstraction and physical water stress across low- and lower-middle-income countries
+# Water abstraction and physical water stress across low- and lower-middle-income countries
 
-Data and code for the manuscript *"Agricultural water abstraction and physical water stress across low- and lower-middle-income countries for sustainable water resources management"*.
+Data and code for the manuscript *"Water abstraction and physical water stress across low- and lower-middle-income countries: the role of agricultural withdrawals in sustainable water resources management"*.
 
 The repository holds the AQUASTAT extraction used in the study, the Python scripts that produce every number, table and figure in the revised manuscript, and the outputs those scripts generate.
 
